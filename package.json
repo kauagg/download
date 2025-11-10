@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "kotlin": "^1.9.25"
+    "kotlin": "^1.9.25",
+    "kotlinc": "^0.1.5"
   }
 }
